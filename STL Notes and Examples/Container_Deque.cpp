@@ -1,8 +1,5 @@
 /*
  * C++ STL CONTAINER: deque
- *
- * AUTHOR: Aditya Gupta
- * DATE: August 24, 2025
  */
 
 #include <iostream>
